@@ -1,10 +1,6 @@
-# Hey, Pomardinho here! 👋
-## 👤 A little about myself
-I'm a backend developer with some frontend skills.
-
-I began my journey as a teenager creating small Discord bots and Unity projects. My passion deepened as I grew older, leading me to pursue a four-year vocational training program.
-
-Currently, I have one year of work experience and have been involved in two medium-sized projects that I'm really proud of.
+# Alex Gomez
+## Information
+I'm a student of Nicolau copernic, doing the Multiplataform App Development course.
 
 ## Knowledge on: 
 ### Frontend
@@ -34,7 +30,6 @@ Currently, I have one year of work experience and have been involved in two medi
 ![Figma](https://img.shields.io/badge/Figma-5551FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0A0A0A)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
-
 
 
 ## Projects
