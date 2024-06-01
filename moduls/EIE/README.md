@@ -1,1 +1,0 @@
-M12 - Empresa i emprendedora
