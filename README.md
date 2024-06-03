@@ -34,7 +34,7 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ### Desing
 ![Blender](https://img.shields.io/badge/Blender-e69138?style=for-the-badge&logo=blender&logoColor=white&labelColor=0A0A0A)
 ![Audacity](https://img.shields.io/badge/Audacity-208cf4?style=for-the-badge&logo=audacity&logoColor=white&labelColor=0A0A0A)
-![Gimp](https://img.shields.io/badge/Gimp-#816a53?style=for-the-badge&logo=gimp&logoColor=white&labelColor=0A0A0A)
+![Gimp](https://img.shields.io/badge/Gimp-816a53?style=for-the-badge&logo=gimp&logoColor=white&labelColor=0A0A0A)
 
 
 ## Projects
