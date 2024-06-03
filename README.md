@@ -19,7 +19,7 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ![MySQL](https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0A0A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-17AD55?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0A0A)
 
-### Others
+### Management
 ![Git](https://img.shields.io/badge/Git-F05639?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
 ![GitLab](https://img.shields.io/badge/GitLab-E34930?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0A0A0A)
@@ -30,6 +30,11 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ![Figma](https://img.shields.io/badge/Figma-5551FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0A0A0A)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
+
+### Desing
+![Blender](https://img.shields.io/badge/Blender-e69138?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
+![Audacity](https://img.shields.io/badge/Audacity-208cf4?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
+![Gimp](https://img.shields.io/badge/GIMP-#816a53?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
 
 
 ## Projects
