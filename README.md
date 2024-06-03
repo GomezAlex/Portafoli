@@ -32,7 +32,7 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
 
 ### Desing
-![Blender](https://img.shields.io/badge/Blender-e69138?style=for-the-badge&logo=logo-blender&logoColor=white&labelColor=0A0A0A)
+![Blender](https://img.shields.io/badge/Blender-e69138?style=for-the-badge&logo=blender&logoColor=white&labelColor=0A0A0A)
 ![Audacity](https://img.shields.io/badge/Audacity-208cf4?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
 ![Gimp](https://img.shields.io/badge/GIMP-#816a53?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
 
