@@ -2,7 +2,7 @@
 ## Information
 I'm a student of Nicolau copernic, doing the Multiplataform App Development course.
 
-## Knowledge on: 
+## Knowledge about: 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-F16524?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A)
 ![CSS3](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
@@ -31,7 +31,7 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0A0A0A)
 
-### Desing
+### Design
 ![Blender](https://img.shields.io/badge/Blender-e69138?style=for-the-badge&logo=blender&logoColor=white&labelColor=0A0A0A)
 ![Audacity](https://img.shields.io/badge/Audacity-208cf4?style=for-the-badge&logo=audacity&logoColor=white&labelColor=0A0A0A)
 ![Gimp](https://img.shields.io/badge/Gimp-816a53?style=for-the-badge&logo=gimp&logoColor=white&labelColor=0A0A0A)
