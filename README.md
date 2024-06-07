@@ -1,4 +1,4 @@
-# Alex Gomez
+# Hello! I am Alex Gomez
 ## Information
 I'm a student of Nicolau copernic, doing the Multiplataform App Development course.
 
@@ -32,13 +32,13 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ![Trello](https://img.shields.io/badge/Trello-2D88FF?style=for-the-badge&logo=trello&logoColor=white&labelColor=0A0A0A)
 ![Figma](https://img.shields.io/badge/Figma-5551FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0A0A0A)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0A0A0A)
+![Amazon AWS](https://img.shields.io/badge/AWS-2C3644?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0A0A0A)
 
 ### Design
-[![Blender](https://img.shields.io/badge/Blender-e69138?style=for-the-badge&logo=blender&logoColor=white&labelColor=0A0A0A)]
+![Blender](https://img.shields.io/badge/Blender-e69138?style=for-the-badge&logo=blender&logoColor=white&labelColor=0A0A0A)
 ![Audacity](https://img.shields.io/badge/Audacity-208cf4?style=for-the-badge&logo=audacity&logoColor=white&labelColor=0A0A0A)
 ![Gimp](https://img.shields.io/badge/Gimp-816a53?style=for-the-badge&logo=gimp&logoColor=white&labelColor=0A0A0A)
-
+---
 
 ## Projects
 - [Unity project](https://gitlab.com/GomezAlex/Strider)
