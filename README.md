@@ -4,6 +4,8 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 
 ## Knowledge about: 
 ### Frontend
+![image](https://github.com/GomezAlex/Portafoli/assets/99869664/d9572b8b-d517-463c-8e8f-a5c4aeb0be05)
+
 <img src="https://img.shields.io/badge/HTML5-F16524?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A0A0A" alt="HTML5 Badge"></img>
 ![CSS3](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
