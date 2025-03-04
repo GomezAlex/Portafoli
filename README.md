@@ -9,12 +9,11 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6F2CF4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0A0A0A)
-![Kotlin](https://img.shields.io/badge/Kotlin-6F2CF4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0A0A0A)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0A0A0A)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-5283A2?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0A0A)
 ![Hibernate](https://img.shields.io/badge/Hibernate-BDAF7A?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0A0A0A)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0A0A0A)
 ![Spring](https://img.shields.io/badge/Spring-72B545?style=for-the-badge&logo=spring&logoColor=white&labelColor=0A0A0A)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-72B545?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0A0A0A)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-72B545?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=0A0A0A)
