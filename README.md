@@ -4,13 +4,12 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 
 ## Knowledge about: 
 ### Frontend
-![image](https://github.com/GomezAlex/Portafoli/assets/99869664/d9572b8b-d517-463c-8e8f-a5c4aeb0be05)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6F2CF4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0A0A0A)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0A0A0A)
+![C#](https://img.shields.io/badge/CSharp-853688?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A0A0A)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-5283A2?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0A0A)
@@ -27,17 +26,17 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
 ![GitLab](https://img.shields.io/badge/GitLab-E34930?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0A0A0A)
 ![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white&labelColor=0A0A0A)
-![C#](https://img.shields.io/badge/CSharp-853688?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A0A0A)
 ![Jira](https://img.shields.io/badge/Jira-2D88FF?style=for-the-badge&logo=jira&logoColor=white&labelColor=0A0A0A)
 ![Trello](https://img.shields.io/badge/Trello-2D88FF?style=for-the-badge&logo=trello&logoColor=white&labelColor=0A0A0A)
-![Figma](https://img.shields.io/badge/Figma-5551FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0A0A0A)
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
 ![Amazon AWS](https://img.shields.io/badge/AWS-2C3644?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0A0A0A)
+![Amazon AWS](https://img.shields.io/badge/Android_studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Design
 ![Blender](https://img.shields.io/badge/Blender-e69138?style=for-the-badge&logo=blender&logoColor=white&labelColor=0A0A0A)
 ![Audacity](https://img.shields.io/badge/Audacity-208cf4?style=for-the-badge&logo=audacity&logoColor=white&labelColor=0A0A0A)
 ![Gimp](https://img.shields.io/badge/Gimp-816a53?style=for-the-badge&logo=gimp&logoColor=white&labelColor=0A0A0A)
+![Figma](https://img.shields.io/badge/Figma-5551FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0A0A0A)
 ---
 
 ## Projects
