@@ -41,6 +41,7 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 
 ## Projects
 - [Unity project](https://gitlab.com/GomezAlex/Strider)
+- [Museum Finder](https://gitlab.com/GomezAlex/museum-finder#)
 
 
 
