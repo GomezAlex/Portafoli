@@ -6,7 +6,8 @@ I'm a student of Nicolau copernic, doing the Multiplataform App Development cour
 ### Frontend
 ![image](https://github.com/GomezAlex/Portafoli/assets/99869664/d9572b8b-d517-463c-8e8f-a5c4aeb0be05)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2465F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A0A0A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0A0A)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6F2CF4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0A0A0A)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0A0A0A)
